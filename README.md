@@ -21,7 +21,7 @@ I have qualified the **CDAC Entrance Exam** with an **All India Rank (AIR) 280**
 - ⚡ I have a strong ability to understand concepts quickly and am interested in working as a Java Backend Developer.
 - 🌱 **Hold the vision and trust the process. ❤️**
 
-> **MUZE JO AATA HAI WO MAI KAR LUNGA AUR JO NAHI ATA WO SIKH LUNGA. 😊**
+> **MUZE JO AATA HAI WO MAI KAR LOONGI AUR JO NAHI ATA WO SIKH LOONGI. 😊**
 
 ---
 
