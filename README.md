@@ -1,37 +1,83 @@
-👩‍💻 Introduction
+<h1 align="center">👩‍💻 Hello, I'm Vishakha Huse </h1>
 
-I am a passionate and self-motivated Java Backend Developer with a strong interest in building scalable, reliable backend systems. I have qualified the CDAC Entrance Exam with an All India Rank (AIR) 280, demonstrating my commitment to building a career in software development.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Backend Developer-blue?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CDAC-AIR%20280-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring Boot-Expert-green?style=flat-square&logo=spring"/>
+</p>
 
-A hardworking, self-driven Java Backend Developer:
+---
 
-• With an entrepreneurial mindset, I have contributed to startups and worked on projects focused on clean, efficient backend architectures.
+## 👩‍💻 Introduction
 
-• I have a strong ability to understand concepts quickly and am interested in working as a Java Backend Developer.
+I am a passionate and self-motivated **Java Backend Developer** with a strong interest in building scalable, reliable backend systems.  
+I have qualified the **CDAC Entrance Exam** with an **All India Rank (AIR) 280**, demonstrating my commitment to building a career in software development.
 
-• Hold the vision and trust the process. ❤️
+---
 
-And:
-MUZE JO AATA HAI WO MAI KAR LUNGA AUR JO NAHI ATA WO SIKH LUNGA. 😊
+## 💼 A Hardworking, Self-Driven Java Backend Developer
 
-Skills: 🛄
+- 💡 With an **entrepreneurial mindset**, I have contributed to startups and worked on projects focused on clean, efficient backend architectures.
+- ⚡ I have a strong ability to understand concepts quickly and am interested in working as a Java Backend Developer.
+- 🌱 **Hold the vision and trust the process. ❤️**
 
-Front-end: HTML | CSS | JavaScript | ReactJs 
+> **MUZE JO AATA HAI WO MAI KAR LUNGA AUR JO NAHI ATA WO SIKH LUNGA. 😊**
 
-Back-end: Java (Core + Spring Boot)
+---
 
-Database: MySQL
+## 🛄 Skills
 
-Design tools: Photoshop | Canva 
+### 🌐 Front-End
+- HTML | CSS | JavaScript | ReactJs
 
-Languages: English | Hindi | Marathi
+### 🛠️ Back-End
+- Java (Core + Spring Boot)
 
-Tools & Platforms: Git & GitHub | Postman | IntelliJ IDEA / Eclipse | VS Code
+### 🗄️ Database
+- MySQL
 
+### 🎨 Design Tools
+- Photoshop | Canva
 
-Mentors & Learning Sources 👩‍🏫
-For enhancing skills 🧑‍💻: Youtube | Documentations | Courses
-For life lessons 🌏 : Sandeep Maheshwari
-For Self Improvement: Coolmitra | Yebook | Seeken
-Some things take time. Stay patient and stay positive, things will get better.
+### 🌏 Languages
+- English | Hindi | Marathi
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- Postman
+- IntelliJ IDEA / Eclipse
+- VS Code
+
+---
+
+## 👩‍🏫 Mentors & Learning Sources
+
+- **For enhancing skills 🧑‍💻**: Youtube | Documentations | Courses
+- **For life lessons 🌏**: Sandeep Maheshwari
+- **For Self Improvement**: Coolmitra | Yebook | Seeken
+
+---
+
+## 🕒 Some Things Take Time
+
+> Stay patient and stay positive, things will get better.
+
+---
+
+## 🎯 Outside of Work
 
 When I'm not building software or have some free time, I'm either watching some of my favorite YouTubers' videos or practicing new skills.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="80" height="80"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+  
+  </a>
+</p>
